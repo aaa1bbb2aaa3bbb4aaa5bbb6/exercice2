@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="titre_array">
+        <item>" Automate the Boring Stuff with Python"</item>
+        <item>" Invent Your Own Computer Games with Python"</item>
+        <item>" Python Crash Course"</item>
+    </string-array>
+    <string-array name="auteur_array">
+        <item>"Auteur:Al Sweigart"</item>
+        <item>"Auteur: Mouloud Faraoun"</item>
+        <item>"Auteur: Al Sweigart"</item>
+    </string-array>
+    <string-array name="description_array">
+        <item>"In Automate the Boring Stuff with Python, you’ll learn how to use Python to write programs that do in minutes what would take you hours to do by hand—no prior programming experience required. Once you’ve mastered the basics of programming, you’ll create Python programs that effortlessly perform useful and impressive feats of automation"</item>
+        <item>"This is the second edition of the best selling Python book in the world. Python Crash Course, 2nd Edition is a straightforward introduction to the core of Python programming. Author Eric Matthes dispenses with the sort of tedious, unnecessary information that can get in the way of learning how to program, choosing instead to provide a foundation in general programming concepts, Python fundamentals, and problem solving. Three real world projects in the second part of the book allow readers to apply their knowledge in useful ways."</item>
+        <item>"Begin by building classic games like Hangman, Guess the Number, and Tic-Tac-Toe, and then work your way up to more advanced games, like a text-based treasure hunting game and an animated collision-dodging game with sound effects. Along the way, you’ll learn key programming and math concepts that will help you take your game programming to the next level."</item>
+    </string-array>
+    <string-array name="pays_array">
+        <item>"Pays: USA"</item>
+        <item>"Pays: USA"</item>
+        <item>"Pays: USA"</item>
+    </string-array>
+    <string-array name="genre_array">
+        <item>"Genre: Sientifique"</item>
+        <item>"Genre: Sientifique"</item>
+        <item>"Genre: Sientifique"</item>
+    </string-array>
+
+</resources>
